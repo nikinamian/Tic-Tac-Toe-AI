@@ -1,20 +1,20 @@
 [
 {
   "directory": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/main.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/main.cpp\"",
-  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/main.cpp",
-  "output": "CMakeFiles/TicTacToeGame.dir/main.cpp.o"
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/src/main.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/main.cpp\"",
+  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/main.cpp",
+  "output": "CMakeFiles/TicTacToeGame.dir/src/main.cpp.o"
 },
 {
   "directory": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/Board.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/Board.cpp\"",
-  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/Board.cpp",
-  "output": "CMakeFiles/TicTacToeGame.dir/Board.cpp.o"
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/src/Board.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/Board.cpp\"",
+  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/Board.cpp",
+  "output": "CMakeFiles/TicTacToeGame.dir/src/Board.cpp.o"
 },
 {
   "directory": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/AI.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/AI.cpp\"",
-  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/AI.cpp",
-  "output": "CMakeFiles/TicTacToeGame.dir/AI.cpp.o"
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/TicTacToeGame.dir/src/AI.cpp.o -c \"/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/AI.cpp\"",
+  "file": "/Users/nikinamian/Desktop/Niki Namian Portfolio/Tic-Tac-Toe-AI--1/src/AI.cpp",
+  "output": "CMakeFiles/TicTacToeGame.dir/src/AI.cpp.o"
 }
 ]

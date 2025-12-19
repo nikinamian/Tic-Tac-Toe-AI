@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TicTacToeGame.dir/src/main.cpp.o CMakeFiles/TicTacToeGame.dir/src/Board.cpp.o CMakeFiles/TicTacToeGame.dir/src/AI.cpp.o -o TicTacToeGame
